@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnepGaming 
-- 👀 I’m interested in developing Android apps
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on small small school project. 
+- 👀 I’m interested in developing distributed webapps
+- 🌱 I’m currently learning Java/Javascript
+- 💞️ I’m looking to collaborate on small university project. 
 - 📫 How to reach me - email: 
 cosenzamario@proton.me
 
