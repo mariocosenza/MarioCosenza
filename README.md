@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnepGaming 
+- 👋 Hi, I’m @mariocosenza
 - 👀 I’m interested in developing distributed app
 - 🌱 I’m currently learning Java/JavaScript
 - 💻 I’m looking to collaborate on small university project. 
