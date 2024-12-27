@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, TypeScript, Spring, React, Neo4j**
 
-- 👯 I’m looking to collaborate on **university project**
+- 👯 I’m looking to collaborate on **university projects**
 
 - 📫 How to reach me **cosenzamario@proton.me**
 
