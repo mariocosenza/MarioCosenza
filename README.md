@@ -21,7 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariocosenza&show_icons=true&locale=en&layout=compact" alt="mariocosenza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariocosenza&show_icons=true&locale=en" alt="mariocosenza" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariocosenza&" alt="mariocosenza" /></p>
 
