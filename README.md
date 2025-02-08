@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [astromark](https://github.com/mariocosenza/astromark)
 
-- 🌱 I’m currently learning **Java, Kotlin, TypeScript, Spring, React, Neo4j**
+- 🌱 I’m currently learning **Java, Python, TypeScript, Spring, React, Neo4j**
 
 - 👯 I’m looking to collaborate on **university projects**
 
