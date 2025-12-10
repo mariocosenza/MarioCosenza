@@ -27,5 +27,5 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats-eta-weld-16.vercel.app/api/top-langs/?username=mariocosenza&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="mariocosenza's GitHub Stats" />
-  <img src="https://github-readme-streak-stats-luia-4o5bwv9xh.vercel.app/?user=mariocosenza&theme=darcula&hide_border=true" alt="mariocosenza's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-luia-mariocosenzas-projects.vercel.app?user=mariocosenza&theme=dark&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </div>
