@@ -10,7 +10,7 @@
 
 I am a first-year **Master's student in Cloud Computing**, transitioning from general CS to building scalable backend systems. My academic focus is currently on **Azure**, distributed systems with **Go**, and cross-platform mobile apps with **Flutter**.
 
-- 🔭 I'm currently working on [mocc](https://github.com/mariocosenza/mocc), [icaro](https://github.com/mariocosenza/icaro), and [lila](https://github.com/mariocosenza/lila).
+- 🔭 I'm currently working on [mocc](https://github.com/mariocosenza/mocc), [mpi-game-of-life](https://github.com/mariocosenza/mpi-conway-game-of-life), and [lila](https://github.com/mariocosenza/lila).
 - 🌱 I'm currently learning **Cloud Architecture, Go (Golang), and Flutter**.
 - 👯 I'm looking to collaborate on **University & Open Source Cloud projects**.
 - ⚡ Fun fact: **I love aviation** ✈️
